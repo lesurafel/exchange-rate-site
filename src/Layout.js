@@ -13,7 +13,7 @@ const Layout = (props) => {
           <a className="badge badge-dark" href="https://github.com/lesurafel/exchange-rate-site.git" target="_blank">GitHub</a>
         </div>
         <div>
-          <span className="mr-3 text-secondary">Built by <a href="https://gifted-newton-b554a5.netlify.com/" target="_blank">Surafel Seyoum</a> with ☕ and 💜</span>
+          <span className="mr-3 text-secondary">Built by <a href="https://gifted-newton-b554a5.netlify.com/" target="_blank">Surafel Seyoum</a></span>
         </div>
       </footer>
     </React.Fragment>
